@@ -8,6 +8,7 @@
     Hello! my name is Lubna, Full-stack Developer.
     /
     From 🇸🇾 Based in 🇫🇷
+    I'm falling in love with programming and learning php and Symfony.
 
 ## Knowledges & Skills
 
