@@ -10,6 +10,8 @@
     From 🇸🇾 Based in 🇫🇷
     I'm falling in love with programming and learning php and Symfony.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lubna93&label=Profile%20views&color=0e75b6&style=flat" alt="lubna93" /> </p>
+
 ## Knowledges & Skills
 
 [![Symfony](https://img.shields.io/static/v1?style=flat-square&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label=&link=https://github.com/Lubna93/)](https://github.com/Lubna93/)
