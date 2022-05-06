@@ -39,7 +39,7 @@
 [![WordPress](https://img.shields.io/static/v1?style=flat-square&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=&link=https://github.com/Lubna93/)](https://github.com/Lubna93/)
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lubna93&show_icons=true&locale=en" alt="lubna93" /></p>
 
 
 
