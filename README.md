@@ -1,6 +1,6 @@
 # 👩‍💻 Lubna
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lubna-altungi/)](https://www.linkedin.com/in/lubna-altungi/)
+[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/lubna-altungi/)](https://www.linkedin.com/in/lubna-altungi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:lubna.altungi@gmail.com)](mailto:lubna.altungi@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white&link=https://medium.com/@lubna.altungi)](https://medium.com/@lubna.altungi)
 
@@ -33,8 +33,8 @@ Web Developer passionate about **PHP**, **Symfony**, **clean code**, and **colla
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 ###
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress)
 
 ###
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
@@ -45,8 +45,8 @@ Web Developer passionate about **PHP**, **Symfony**, **clean code**, and **colla
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx)
 
 ---
 
